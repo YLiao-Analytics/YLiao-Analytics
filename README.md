@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Yanting (Iris) 
 
 ### 📊 Business Analytics Graduate Student @ University of Dayton
-> **Operations & Financial Analytics Expert | 10+ Years Experience | AI/ML Practitioner**
+> **I bridge business operations and data analytics**—combining 10+ years of cross-functional industry experience at Fuyao Glass with advanced data engineering and BI techniques to build automated pipelines, streamlined dashboards, and data governance solutions that drive measurable business value.**
 
-I specialize in translating complex business operations into AI-enabled solutions. Currently pursuing an MS in Business Analytics, I leverage 10+ years of financial and operational expertise to build automated systems that drive operational excellence and ensure the accuracy of data-driven insights.
 
 ---
 
 ### 🛠️ Technical Toolkit
-* **Data Analysis:** Python (Pandas, NumPy), SQL, Excel (VBA)，R (Machine Learning, SNA(Social Network Analysis))
-* **Visualization:** Streamlit, Tableau, Matplotlib
-* **Tools:** Git, GitHub, Jupyter Notebook, ERP(Oracle, Plex)/MES Systems
-* **Soft Skills:** Cross-functional Collaboration , Stakeholder Management, Regulatory Compliance mindset, and Logical Problem Solving.
+* **Data Analytics & Scripting:** SQL (Advanced Queries, Joins, Window Functions), Python (Pandas, NumPy, Scikit-learn), R, Excel (VBA, Power Query).
+* **Data Engineering & Pipelines:** Cloud & On-Prem ETL Processes, Relational Databases (MySQL, PostgreSQL), NoSQL (MongoDB), Data Pipeline Design, Data Validation & Cleaning.
+* **Business Intelligence & Visualization:** Power BI (DAX, Dimensional Modeling), Streamlit, Tableau, Matplotlib, Seaborn.
+* **Systems & Domain Expertise:** Data Governance, Financial Reconciliation, Process Automation, ERP Systems (Oracle, Plex), MES, Supply Chain & Cost Analytics.
 
 ---
 
-### 🚀 Featured AI & Analytics Projects
+### 🚀 Featured Analytics & Data Engineering Projects
 #### [📊 Production Data Automation Dashboard](https://github.com/YLiao-Analytics/Fuyao-Data-Automation)
 * What it is: Developed a real-time web application to automate the consolidation of multi-workshop CSV reports.
 * Why it matters: Reduced data processing time by **90%** and provided instant KPI insights (Output & Waste Rate). Implemented robust data validation protocols to ensure high-fidelity output for leadership reporting.
 * *Tech: Python, Streamlit, Pandas*
+* **Demonstrates:** Data Pipeline Automation, Data Governance, Operational Cost Analytics, Streamlit Dashboard.
 
 #### [🧪 ML Model Validation & A/B Testing](https://github.com/YLiao-Analytics/ml-ab-testing)
 * What it is: A framework for evaluating machine learning models using statistical A/B testing.
@@ -39,8 +39,9 @@ I specialize in translating complex business operations into AI-enabled solution
 ---
 
 ### 📈 Professional Journey
-* **Graduate Student**, Business Analytics | *University of Dayton* (Expected Dec 2026)
+* **Graduate Student**, Business Analytics | *University of Dayton* (Expected Dec 2026 | GPA: 3.95/4.0)
 * **Operations Analyst / Cost Accountant** | *Fuyao Glass* (10 Years)
+  * *Coursework:* Data Pipelines & ETL, Business Intelligence & Visualization, Data Management (SQL), Advanced Analytics (Python).
     * Focused on operational efficiency, cost control, and financial reporting.
     * 10+ Years at Fuyao Glass Group: Delivered $2M+ in cost savings and reduced manual reporting time by 99%.
     * Expertise: Financial Reconciliation, Lean Manufacturing, and translating business problems into AI solutions.
@@ -49,7 +50,7 @@ I specialize in translating complex business operations into AI-enabled solution
 
 ### 📫 Connect with Me
 * **Location:** Dayton, Ohio 
-* **Goal:** Seeking AI / Data Analytics Internships for Summer 2026.
+* **Target Roles:** Data Analyst | Business Operations Analyst | Data Governance Analyst | BI Analyst (OH / Remote)
 * **Email:** yantingiris@gmail.com
 
 
