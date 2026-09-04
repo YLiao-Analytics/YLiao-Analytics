@@ -59,6 +59,3 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YLiao-Analytics&show_icons=true&theme=radical&hide=prs,issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YLiao-Analytics&layout=compact&theme=radical)
